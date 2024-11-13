@@ -1,0 +1,5 @@
+fontawesome link---->
+https://cdnjs.com/libraries/font-awesome/5.15.3
+
+js link--->
+https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
